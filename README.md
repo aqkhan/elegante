@@ -1,7 +1,7 @@
-Kickstart WordPress Theme
+Elegante WordPress template
 ===========
 
-### Starter kit for WordPress themes.
+### Following included
 
 * Bootstrap (version 3.3.6 minified) loaded
 * Custom CSS loaded the proper way 
